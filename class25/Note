@@ -1,0 +1,10 @@
+Abstraction:
+allow us to simplify code by hiding implementation details only showing functionality
+to the user. in  java we can achieve this nin two ways.
+1) Abstract classes 2) Interface
+Interface-is very similar to a abstract class, we can have private methods static method
+default methods,   we cant have instance fields in an interface.
+and also can't have constructor in interface.
+Why we should learn about interface:
+ when object..
+

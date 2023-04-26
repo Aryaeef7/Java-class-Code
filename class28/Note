@@ -1,0 +1,34 @@
+Collection framework:
+  A collection of class and interfaces which help us store and mange objects in the
+  form of collection. for example # arraylist # LinkList these classes make it easier
+  to manage the data as they have ready made-method that we use.
+
+Wrapper Classes;
+we can use primitive data type as abject with the help of wrapper classes. we want to de
+  it because primitive data types are not supported by the classes in collection framework
+like Arraylist.
+
+Boxing:
+ is the process of converting primitive data types to its corresponding wrapper type or
+ object type. ex.
+ int number = integer; // it is auto unboxing
+  int number2 = integer.intValue();// unboxing
+ AutoBoxing
+ it says that we just have to assign a wrapper type of variable and conversion
+ will happen auto.  ex.
+ Character gf='a'; => Autoboxing
+ char ch = gf; => Auto unboxing
+
+ Arraylist:
+ Arraylist is o apart of collections framework. we  can store single object inside
+ array list it work very similar how array works but it is dynamic in nature
+automatically unlike we don't provide the size upfront.
+
+Diamond Operator;
+ are also called angle bracket '<>'. they used to specify the name of the class
+ who object we will be storing inside the classes which belong to the collections
+ framework or any other class which uses java generics.
+ArrayList vs LinkedList:
+if in your code use get method and you don't add or remove elements from in bettwen
+then you should always us ArrayList.
+if most of the time you add or remove

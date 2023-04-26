@@ -1,0 +1,6 @@
+Iterator:
+Sets like HashSet,LinkedHasSet and TreeSet don't allow duplicate values.
+HashSet:
+Upside:Fast
+Downside: Does not retain the insertion order.
+LinkedHashSet

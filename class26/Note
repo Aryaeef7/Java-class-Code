@@ -1,0 +1,25 @@
+Interface:
+interface is similar to an abstract class. it is a contract  between unrelated classes.
+we can use it to achieve
+Methods (Most Important)
+String Class =
+Loops
+Arrays
+Variable types in Java
+Access Modifier (Skim)
+Constructor
+this (keyword)
+Inheritance (Cucumber Class)
+Super (very rare)
+Overriding
+Implementing an interface
+Polymorphism
+Final Keyword( maybe not )
+abstraction (important but not all the details)
+interface (important)
+Encapsulation(not important for selenium)
+
+
+
+
+
